@@ -2,7 +2,7 @@
 	"meta": {
 		"title": "Felix",
 		"description": "个人博客",
-		"username": "Suni"
+		"username": "Lin"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -50,16 +50,9 @@
 			"order": 3
 		},
 		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "felix-lin2000@qq.com",
 			"label": "",
 			"order": 1
 		}
