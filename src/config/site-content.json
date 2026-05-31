@@ -45,9 +45,9 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Lin-Felix",
 			"label": "Github",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "email",
